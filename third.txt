@@ -1,0 +1,4 @@
+A)Open the terminal and press ctrl+R and type your text.
+B)ls -a | grep '^\.'
+C)I have only basic experience in ubuntu commands which i have learned in my Academics(rating=2/5).
+D)Apache(SMTP servers,Database server-MySql,Web Servers),Tomcat(Application Server).
