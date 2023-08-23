@@ -17,7 +17,7 @@
   Sample Website  : https://www.tcs.com/careers
 
 5)Technoloy Name  : Shopify
-  Regex Pattern   : #shopify= r'<script[^>]*src=["\'][^>]*shopify[^>]*["\'][^>]*>|https:\/\/cdn\.shopify\.com\/.*'
+  Regex Pattern   : r'<script[^>]*src=["\'][^>]*shopify[^>]*["\'][^>]*>|https:\/\/cdn\.shopify\.com\/.*'
   Sample Website  :https://www.shopify.com/
 
 
@@ -36,7 +36,7 @@
 
 9)Technoloy Name  : PHP
   Regex Pattern   : r'<\?php|<\?='
-  Sample Website  : "https://in.search.yahoo.com/"
+  Sample Website  : https://in.search.yahoo.com/
 
 10)Technoloy Name  : Google Maps
    Regex Pattern   : r'https:\/\/maps\.googleapis\.com\/maps\/api.*|https:\/\/maps\.google\.com\/maps\/api\.*'
