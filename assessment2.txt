@@ -13,7 +13,7 @@
 
 
 4)Technoloy Name  : Bootstrap
-  Regex Pattern   : r'(<link[^>]*href=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<script[^>]*src=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'][^>]*bootstrap[^>]*["\'][^>]*>)'
+  Regex Pattern   : r'(<link[^>]*href=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<script[^>]*src=["\'][^>]*bootstrap[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'[^>]*bootstrap[^>]*["\'][^>]*>)'
 
   Sample Website  : https://www.tcs.com/careers
 
