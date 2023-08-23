@@ -28,8 +28,7 @@
 
 
 7)Technoloy Name  : Materialize Css
-  Regex Pattern   : r'<link[^>]*href=["\'][^>]*materialize[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'][^>]*materialize[^>]*["\'][^>]*>|<script[^>]*src=["\']             [^>]*materialize[^>]*["\'][^>]*>'
-
+  Regex Pattern   : r'<link[^>]*href=["\'][^>]*materialize[^>]*["\'][^>]*>|<link[^>]*rel=["\']stylesheet["\'][^>]*materialize[^>]*["\'][^>]*>|<script[^>]*src=["\'][^>]*materialize[^>]*["\'][^>]*>'
   Sample Website  : https://www.geeksforgeeks.org/
 
 8)Technoloy Name  : Python
